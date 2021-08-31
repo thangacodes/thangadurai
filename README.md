@@ -1,14 +1,14 @@
 - 👋 Hi, I’m @Thangadurai
 - 👀 I’m interested in DevOps and SRE...
-- 🌱 Cloud Platform:
+-     Cloud Platform:
 -          - AWS Cloud
-- 💞️ Operating Systems:
+-     Operating Systems:
 -          - RedHat Linux Rlease
 -          - Ubuntu
 -          - CentOS 7
--   Infrastructure As a Code:
+-     Infrastructure As a Code:
 -          - Terraform
--   Source Code Management:
+-     Source Code Management:
 -         - Git
 - 📫 If someone want to reach out me, please shoot an email to send2durai@Hotmail.com
 

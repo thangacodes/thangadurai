@@ -1,7 +1,15 @@
-- 👋 Hi, I’m @send2durai
+- 👋 Hi, I’m @Thangadurai
 - 👀 I’m interested in DevOps and SRE...
-- 🌱 I’m currently learning Open source tools, which are being used in the current DevOps industry ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 Cloud Platform:
+-          - AWS Cloud
+- 💞️ Operating Systems:
+-          - RedHat Linux Rlease
+-          - Ubuntu
+-          - CentOS 7
+-   Infrastructure As a Code:
+-          - Terraform
+-   Source Code Management:
+-         - Git
 - 📫 If someone want to reach out me, please shoot an email to send2durai@Hotmail.com
 
 <!---

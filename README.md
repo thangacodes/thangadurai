@@ -18,8 +18,9 @@
         
 ❄️ Monitoring Tools:
         - AWS CloudWatch
-        - Zabbix, AppDynamics
+        - Zabbix
         - Splunk
-        
+❄️ Application performance Monitoring:
+        - AppDynamic
         
  If someone want to reach out me, please shoot an email to send2durai@hotmail.com

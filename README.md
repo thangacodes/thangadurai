@@ -11,7 +11,7 @@
         - CentOS
         
 ❄️ Infrastructure As a Code:
-        - Terraform
+        - Terraform, Ansible
         
 ❄️ Source Code Management/Version Control:
         - Git
@@ -24,5 +24,8 @@
 
 ❄️ Application performance Monitoring:
         - AppDynamic
+     
+❄️ Docker and Container Orchestration:
+        - Kubernetes (K8's)
         
- If someone want to reach out me, please shoot an email to send2durai@hotmail.com
+ If someone wants to reach out me, please shoot an email to send2durai@hotmail.com

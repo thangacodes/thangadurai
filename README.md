@@ -4,6 +4,7 @@
 
 ❄️ Cloud platform: 
         - Amazon Web Service (AWS)
+        - Google Cloud Platform (GCP)
         
 ❄️ Operating Systems:
         - RedHat Linux Release
@@ -14,7 +15,7 @@
         - Terraform, Ansible
         
 ❄️ Source Code Management/Version Control:
-        - Git
+        - GitHub
         - Bitbucket
         
 ❄️ Monitoring Tools:
@@ -28,4 +29,4 @@
 ❄️ Docker and Container Orchestration:
         - Kubernetes (K8's)
         
- If someone wants to reach out me, please shoot an email to send2durai@hotmail.com
+ Feel free to send me an email at send2durai@hotmail.com if you want to contact me.

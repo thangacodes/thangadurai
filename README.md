@@ -4,29 +4,24 @@
 
 ❄️ Cloud platform: 
         - Amazon Web Service (AWS)
-        
         - Google Cloud Platform (GCP)
         
 ❄️ Operating Systems:
         - RedHat Linux Release
-        
         - Ubuntu
-        
         - CentOS
+        - Windows 2k12,2k16r2
         
 ❄️ Infrastructure As a Code:
         - Terraform, Ansible
         
 ❄️ Source Code Management/Version Control:
         - GitHub
-        
         - Bitbucket
         
 ❄️ Monitoring Tools:
         - AWS CloudWatch
-        
         - Zabbix
-        
         - Splunk
 
 ❄️ Application performance Monitoring:

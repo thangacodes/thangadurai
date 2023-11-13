@@ -1,5 +1,7 @@
 👋 Hi, I’m Thangadurai (Thangaa)
 
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=send2durai&theme=radical)]
+
 ❄️ Working as CloudOps Engineer
 
 ❄️ Cloud platform: 
@@ -31,5 +33,3 @@
         - Kubernetes (K8's)
         
  Feel free to send me an email at send2durai@hotmail.com if you want to contact me.
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=send2durai&theme=radical)

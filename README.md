@@ -1,6 +1,6 @@
 👋 Hi, I’m Thangadurai (Thangaa)
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=send2durai&theme=radical)]
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=send2durai@hotmail.com&theme=radical)]
 
 ❄️ Working as CloudOps Engineer
 

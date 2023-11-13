@@ -2,9 +2,6 @@
 I'm currently working on AWS Cloud and DevOps Tools
 I'm learning Python Automation
 
-
-## 🌐 Socials:
-![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&(https://www.linkedin.com/in/thangadurai-murugan-87958556/) 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=thangacodes&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=thangacodes&theme=dark&hide_border=true)<br/>

@@ -31,3 +31,5 @@
         - Kubernetes (K8's)
         
  Feel free to send me an email at send2durai@hotmail.com if you want to contact me.
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=send2durai&theme=radical)

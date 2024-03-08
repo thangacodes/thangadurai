@@ -1,6 +1,6 @@
 # 💫 About Me:
-I'm currently working on AWS/Azure Cloud and DevOps Toolings.
-I'm learning Python Automation
+I'm currently working on AWS/Azure Cloud Space and DevOps CICD projects.
+I'm fully focussed on Python SDK boto3
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=thangacodes&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>

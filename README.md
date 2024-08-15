@@ -1,8 +1,11 @@
 # 💫 About Me:
 I am Thangadurai, a seasoned Information Technology engineer and graduate of Anna University in Tamil Nadu, India, with over 12 years of experience specializing in AWS Cloud and DevOps.
-My technical skill set includes proficiency in AWS and Microsoft Azure cloud platforms, Apache and Nginx web servers, Docker containerization, GitHub for version control, Ansible for configuration
-management, Cloud Bees Jenkins for continuous integration and deployment, Kubernetes for container Orchestration, Linux system administration, and database management with MySQL/Oracle 12c.
-Additionally, I have experience with infrastructure as code (IaC) using Terraform, virtualization with VMWare ESXi, and monitoring tools such as DataDog, EFK stack, and Splunk.
+As a Senior Engineer revolves around enhancing cloud infrastructure using Infrastructure as Code (IaC), specifically with Terraform, and setting up robust environments for SaaS applications. 
+This experience builds on my previous tenure at Sabre Airline Solutions, where I excelled in developing and maintaining continuous integration and deployment (CI/CD) pipelines, leveraging Jenkins, Ansible, and Apache Tomcat, Terraform(IaC) to streamline software delivery for airline industry clients.
+
+The technical prowess I bring to the table is buttressed by expertise in cloud services, containerization with Docker and Kubernetes, and configuration management. 
+Our team's commitment to innovation and seamless operations has resulted in efficient and secure development workflows. 
+Contributing to such transformative projects has honed my skills in scripting with Python and Groovy, maximized system reliability, and optimized the deployment process, aligning with Tesco's objectives of advancing their technological framework.
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=thangacodes&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>

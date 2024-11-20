@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Thangadurai, a seasoned Information Technology engineer and graduate of Anna University in Tamil Nadu, India, with over 12 years of experience specializing in AWS Cloud and DevOps.
+I am Thangadurai, a seasoned Information Technology engineer and graduate of Anna University in Tamil Nadu, India, with over 13 years of experience specializing in AWS Cloud and DevOps.
 As a Senior Engineer revolves around enhancing cloud infrastructure using Infrastructure as Code (IaC), specifically with Terraform, and setting up robust environments for SaaS applications. 
 This experience builds on my previous tenure at Sabre Airline Solutions, where I excelled in developing and maintaining continuous integration and deployment (CI/CD) pipelines, leveraging Jenkins, Ansible, and Apache Tomcat, Terraform(IaC) to streamline software delivery for airline industry clients.
 
@@ -17,4 +17,7 @@ Contributing to such transformative projects has honed my skills in scripting wi
   <img src="https://visitcount.itsvg.in/api?id=thangacodes&label=Profile%20Views&color=3&icon=0&pretty=false" />
 </a>
 ---
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=<your-github-username>&theme=vue-dark&custom_title=Languages&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+# Top Languages
+Lists your most frequently coded in languages by percentage
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=send2durai&theme=vue-dark&custom_title=Languages&layout=compact)](https://github.com/thangacodes/github-readme-stats)

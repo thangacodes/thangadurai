@@ -12,12 +12,16 @@ Contributing to such transformative projects has honed my skills in scripting wi
 ![](https://github-readme-streak-stats.herokuapp.com/?user=thangacodes&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=thangacodes&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 [![](https://visitcount.itsvg.in/api?id=thangacodes&label=Profile%20Views&color=3&icon=0&pretty=false)](https://visitcount.itsvg.in)
+
+# Top Languages:
+
+Lists your most frequently coded in languages by percentage
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thangacodes&theme=vue-dark&custom_title=Languages&layout=compact)](https://github.com/thangacodes/github-readme-stats)
+
+# Profile Views:
 ---
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=thangacodes&label=Profile%20Views&color=3&icon=0&pretty=false" />
 </a>
 ---
-# Top Languages
-Lists your most frequently coded in languages by percentage
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thangacodes&theme=vue-dark&custom_title=Languages&layout=compact)](https://github.com/thangacodes/github-readme-stats)

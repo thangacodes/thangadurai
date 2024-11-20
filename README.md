@@ -10,7 +10,9 @@ Contributing to such transformative projects has honed my skills in scripting wi
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=thangacodes&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
-# Contributions:
+# Activity:
+Displays total stars, commits, pull requests, etc.
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=thangacodes&theme=dark&hide_border=false)<br/>
 
 # Top Languages:

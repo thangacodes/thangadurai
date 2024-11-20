@@ -20,4 +20,4 @@ Contributing to such transformative projects has honed my skills in scripting wi
 # Top Languages
 Lists your most frequently coded in languages by percentage
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=send2durai&theme=vue-dark&custom_title=Languages&layout=compact)](https://github.com/thangacodes/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thangacodes&theme=vue-dark&custom_title=Languages&layout=compact)](https://github.com/thangacodes/github-readme-stats)

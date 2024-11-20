@@ -20,6 +20,11 @@ Lists your most frequently coded in languages by percentage
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thangacodes&theme=vue-dark&custom_title=Languages&layout=compact)](https://github.com/thangacodes/github-readme-stats)
 
+# Streak Counter:
+Lists your current and longest streak of making at least one daily GitHub commit
+
+[![GitHub Streak Counter](https://github-readme-streak-stats.herokuapp.com/?user=thangacodes&theme=vue-dark)](https://git.io/streak-stats)
+
 # Profile Views:
 
 <a href="https://visitcount.itsvg.in">

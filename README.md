@@ -17,3 +17,4 @@ Contributing to such transformative projects has honed my skills in scripting wi
   <img src="https://visitcount.itsvg.in/api?id=thangacodes&label=Profile%20Views&color=3&icon=0&pretty=false" />
 </a>
 ---
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=<your-github-username>&theme=vue-dark&custom_title=Languages&layout=compact)](https://github.com/anuraghazra/github-readme-stats)

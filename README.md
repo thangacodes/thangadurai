@@ -8,10 +8,6 @@ The technical prowess I bring to the table is buttressed by expertise in cloud s
 Our team's commitment to innovation and seamless operations has resulted in efficient and secure development workflows. 
 Contributing to such transformative projects has honed my skills in scripting with Python and Groovy, maximized system reliability, and optimized the deployment process, aligning with Tesco's objectives of advancing their technological framework.
 
-<div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
-</div>
-
 ###
 
 <div align="center">
@@ -26,7 +22,7 @@ Contributing to such transformative projects has honed my skills in scripting wi
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=thangacodes.thangacodes&" />
 </div>
 
 ###

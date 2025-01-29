@@ -78,6 +78,9 @@ Contributing to such transformative projects has honed my skills in scripting wi
 
   <!-- Bash Logo -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo" />
+  
+  <!-- Shell Logo -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo" />
 
   <!-- PowerShell Logo -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" height="40" alt="powershell logo" />
@@ -87,11 +90,8 @@ Contributing to such transformative projects has honed my skills in scripting wi
 
   <!-- Oracle DB Logo -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle db logo" />
-
   
 </div>
-
-
 ###
 
 <h3 align="left">🔥   My Stats :</h3>

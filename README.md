@@ -82,8 +82,6 @@ Contributing to such transformative projects has honed my skills in scripting wi
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
-
-📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=thangacodes&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=thangacodes&theme=dark&hide_border=true)<br/>
 

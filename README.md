@@ -1,12 +1,55 @@
-# 💫 About Me:
-I am Thangadurai, a seasoned Information Technology engineer and a graduate of Anna University in Tamil Nadu, India, with over 13 years of experience specializing in AWS Cloud and DevOps. 
-As a Senior Engineer, my focus is on enhancing cloud infrastructure using Infrastructure as Code (IaC), specifically with Terraform, and establishing robust environments for SaaS applications. 
-This experience builds on my previous roles at Sabre Airline Solutions and Tesco Bank, where I excelled in developing and maintaining continuous integration and deployment (CI/CD) pipelines. 
-I leveraged tools such as GitHub, GitHub Actions, CloudBees Jenkins CI/CD, Ansible, IBM WebSphere, Apache Tomcat, Docker Container, Kubernetes Orchestration (EKS) Terraform (IaC), Hashicorp Packer/Vault and Oracle/Postgres databases migrations and upgrades to streamline software delivery for clients in the airline and banking industries.
+# 💫 About Me
 
-The technical prowess I bring to the table is buttressed by expertise in cloud services, containerization with Docker and Kubernetes, and configuration management. 
-Our team's commitment to innovation and seamless operations has resulted in efficient and secure development workflows. 
-Contributing to such transformative projects has honed my skills in scripting with Python and Groovy, maximized system reliability, and optimized the deployment process, aligning with Tesco's objectives of advancing their technological framework.
+Hello! I'm **Thangadurai**, a seasoned Information Technology engineer with over 13 years of experience. I specialize in AWS Cloud and DevOps, and I'm passionate about building and optimizing cloud infrastructures. Here's a brief overview of my experience and skills:
+
+## 🏫 Education
+- **Degree**: Graduate from **Anna University**, Tamil Nadu, India.
+
+## 💼 Professional Experience
+- **Current Role**: Senior Engineer
+  - Focus on enhancing **cloud infrastructure** using **Infrastructure as Code (IaC)** with **Terraform**.
+  - Specialize in building and maintaining robust environments for **SaaS applications**.
+  
+- **Previous Experience**:
+  - **Sabre Airline Solutions** and **Tesco Bank**:
+    - Developed and maintained **CI/CD pipelines** to streamline software delivery.
+    - Utilized a wide range of tools and technologies to optimize workflows for the airline and banking industries.
+  
+## 🛠️ Technical Expertise
+- **Cloud Technologies**: 
+  - AWS Cloud Services (EC2, S3, VPC, etc.)
+  
+- **Infrastructure as Code (IaC)**:
+  - **Terraform** for provisioning cloud resources.
+  - **HashiCorp Packer/Vault** for building and managing infrastructure.
+
+- **CI/CD Tools**:
+  - **GitHub** & **GitHub Actions** for version control and automation.
+  - **CloudBees Jenkins** for Continuous Integration & Deployment.
+  
+- **Containerization & Orchestration**:
+  - **Docker** for containerizing applications.
+  - **Kubernetes (EKS)** for container orchestration.
+
+- **Configuration Management**:
+  - **Ansible** for automating configurations and deployments.
+
+- **Web Servers**:
+  - **IBM WebSphere** and **Apache Tomcat** for web application hosting.
+  
+- **Databases**:
+  - **Oracle** and **Postgres** for database migrations and upgrades.
+
+## 🧑‍💻 Skills
+- **Scripting**: Proficient in **Python** and **Groovy** for automation and CI/CD processes.
+- **System Reliability**: Focused on maximizing system reliability through robust architecture and testing.
+- **Deployment Optimization**: Experienced in optimizing deployment processes to improve speed and security.
+
+## 🚀 Contributions & Achievements
+- Played a key role in **advancing Tesco's technological framework** through innovative DevOps practices.
+- Contributed to transformative projects that improved the overall efficiency and security of development workflows.
+
+Looking forward to creating more impactful solutions and contributing to the world of cloud technologies and DevOps!
 
 ###
 
@@ -98,7 +141,6 @@ Contributing to such transformative projects has honed my skills in scripting wi
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle db logo" />
   
 </div>
-###
 
 <h3 align="left">🔥   My Stats :</h3>
 

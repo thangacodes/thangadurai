@@ -83,8 +83,8 @@ Contributing to such transformative projects has honed my skills in scripting wi
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=thangacodes&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
-</div>
+📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=thangacodes&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=thangacodes&theme=dark&hide_border=true)<br/>
 
 ###

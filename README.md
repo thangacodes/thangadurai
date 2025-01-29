@@ -50,21 +50,32 @@ Contributing to such transformative projects has honed my skills in scripting wi
 
 ###
 
-<div align="left">
-  <p align="left">
+<div align="left" style="display: flex; flex-wrap: wrap; gap: 15px;">
+  <!-- Python Logo -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="40" alt="python logo" />
-  <br><br>
-</p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-<p align="left">
+
+  <!-- AWS Logo -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo" />
+
+  <!-- Jenkins Logo -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="40" alt="jenkins logo" />
-  <br><br>
-</p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
+
+  <!-- Kubernetes Logo -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo" />
+
+  <!-- Docker Logo -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo" />
+
+  <!-- Terraform Logo (HashiCorp) -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original-wordmark.svg" height="40" alt="terraform logo" />
+
+  <!-- HashiCorp Vault Logo -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vault/vault-original-wordmark.svg" height="40" alt="hashicorp vault logo" />
+
+  <!-- Bash Logo -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo" />
 </div>
+
 
 ###
 

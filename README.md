@@ -36,8 +36,9 @@ Contributing to such transformative projects has honed my skills in scripting wi
 ###
 
 <p align="left">I'm Thangadurai from Bangalore, India.
-I’m working as a Senior Cloud/DevOps Engineer, specializing in designing and managing scalable cloud infrastructures, automating deployments, and ensuring continuous integration and delivery pipelines.
-<br><br>- 🔭 I’m working as Senior Cloud/DevOps Engineer ...<br>
+<br><br>- 🔭 I’m working as Senior Cloud/DevOps Engineer ...
+  I’m working as a Senior Cloud/DevOps Engineer, specializing in designing and managing scalable cloud infrastructures, automating deployments, and ensuring continuous integration and delivery pipelines.
+  <br>
 - 📚 I'm currently learning...
   I’m currently learning Kubernetes.
   <br></p>

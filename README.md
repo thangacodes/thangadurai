@@ -35,13 +35,14 @@ Contributing to such transformative projects has honed my skills in scripting wi
 
 ###
 
-<p align="left">I'm Thangadurai from Bangalore, India.
-<br><br>- 🔭 I’m working as Senior Cloud/DevOps Engineer ...
-  I’m working as a Senior Cloud/DevOps Engineer, specializing in designing and managing scalable cloud infrastructures, automating deployments, and ensuring continuous integration and delivery pipelines.
+<p align="left">
+  I'm Thangadurai from Bangalore, India.
+  <br><br>
+  - 🔭 I’m working as a Senior Cloud/DevOps Engineer, specializing in designing and managing scalable cloud infrastructures, automating deployments, and ensuring continuous integration and delivery pipelines.
+  <br><br>
+  - 📚 I'm currently learning Kubernetes Enterprise project case and Python programming/scripting.
   <br>
-- 📚 I'm currently learning...
-  I’m currently learning Kubernetes Enterprise project case and Python Programming/scripting.
-  <br></p>
+</p>
 
 ###
 
@@ -50,15 +51,16 @@ Contributing to such transformative projects has honed my skills in scripting wi
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
-  <img width="12" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
+  <p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="40" alt="python logo" />
+  <br><br>
+</p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" height="40" alt="circleci logo"  />
-  <img width="12" />
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="40" alt="jenkins logo" />
+  <br><br>
+</p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />

@@ -55,15 +55,18 @@ Contributing to such transformative projects has honed my skills in scripting wi
 
 <div align="left" style="display: flex; flex-wrap: wrap; gap: 15px;">
   
-  <!-- Python Logo -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="40" alt="python logo" />
-
   <!-- AWS Logo -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo" />
 
   <!-- Azure Cloud Logo -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure cloud logo" />
+  
+  <!-- GitHub Logo -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" />
 
+  <!-- GitHub Actions Logo -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" height="40" alt="github actions logo" />
+  
   <!-- Jenkins Logo -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="40" alt="jenkins logo" />
 
@@ -81,6 +84,9 @@ Contributing to such transformative projects has honed my skills in scripting wi
 
   <!-- Bash Logo -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo" />
+
+  <!-- Python Logo -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="40" alt="python logo" />
   
   <!-- PowerShell Logo -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" height="40" alt="powershell logo" />

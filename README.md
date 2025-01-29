@@ -40,7 +40,7 @@ Contributing to such transformative projects has honed my skills in scripting wi
   I’m working as a Senior Cloud/DevOps Engineer, specializing in designing and managing scalable cloud infrastructures, automating deployments, and ensuring continuous integration and delivery pipelines.
   <br>
 - 📚 I'm currently learning...
-  I’m currently learning Kubernetes.
+  I’m currently learning Kubernetes Enterprise project case and Python Programming/scripting.
   <br></p>
 
 ###
@@ -52,11 +52,6 @@ Contributing to such transformative projects has honed my skills in scripting wi
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" height="40" alt="ruby logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
   <img width="12" />

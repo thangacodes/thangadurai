@@ -106,4 +106,9 @@ Contributing to such transformative projects has honed my skills in scripting wi
 ![](https://github-readme-stats.vercel.app/api?username=thangacodes&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=thangacodes&theme=dark&hide_border=true)<br/>
 
+![](https://github-readme-stats.vercel.app/api?username=thangacodes&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=thangacodes&theme=dark&hide_border=true)
+![](https://github-readme-activity-graph.cyclic.app/graph?username=thangacodes&theme=react-dark)
+
+
 ###

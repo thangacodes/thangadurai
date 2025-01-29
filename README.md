@@ -54,6 +54,7 @@ Contributing to such transformative projects has honed my skills in scripting wi
 ###
 
 <div align="left" style="display: flex; flex-wrap: wrap; gap: 15px;">
+  
   <!-- Python Logo -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="40" alt="python logo" />
 
@@ -77,6 +78,17 @@ Contributing to such transformative projects has honed my skills in scripting wi
 
   <!-- Bash Logo -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo" />
+
+  <!-- PowerShell Logo -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" height="40" alt="powershell logo" />
+  
+  <!-- PostgreSQL DB Logo -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
+
+  <!-- Oracle DB Logo -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle db logo" />
+
+  
 </div>
 
 

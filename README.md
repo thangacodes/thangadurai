@@ -93,9 +93,9 @@
 
 ###
 
-![](https://github-readme-stats.vercel.app/api?username=thangacodes&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=thangacodes&theme=dark&hide_border=true)<br/>
-![](https://github-readme-activity-graph.cyclic.app/graph?username=thangacodes&theme=react-dark) 
+![](https://github-readme-stats.vercel.app/api?username=thangacodes&theme=dark&hide_border=true&include_all_commits=true&count_private=true)  
+![](https://github-readme-streak-stats.herokuapp.com/?user=thangacodes&theme=dark&hide_border=true)  
+![](https://github-readme-activity-graph.cyclic.app/graph?username=thangacodes&theme=react-dark)
 
 ###
 
@@ -106,14 +106,3 @@
 </div>
 
 ###
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/thangacodes/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-
-<br clear="both">
-
-###
-

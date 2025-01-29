@@ -43,7 +43,7 @@ Contributing to such transformative projects has honed my skills in scripting wi
   <br><br>
   - 🔭 I’m working as a Senior Cloud/DevOps Engineer, specializing in designing and managing scalable cloud infrastructures, automating deployments, and ensuring continuous integration and delivery pipelines.
   <br><br>
-  - 📚 I'm currently learning Kubernetes Enterprise project case and Python programming/scripting.
+  - 📚 I'm currently learning about Kubernetes enterprise projects and Python programming/scripting.
   <br>
 </p>
 

@@ -61,6 +61,9 @@ Contributing to such transformative projects has honed my skills in scripting wi
   <!-- AWS Logo -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo" />
 
+  <!-- Azure Cloud Logo -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure cloud logo" />
+
   <!-- Jenkins Logo -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="40" alt="jenkins logo" />
 
@@ -79,9 +82,6 @@ Contributing to such transformative projects has honed my skills in scripting wi
   <!-- Bash Logo -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo" />
   
-  <!-- Shell Logo -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo" />
-
   <!-- PowerShell Logo -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" height="40" alt="powershell logo" />
   

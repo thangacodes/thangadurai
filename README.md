@@ -95,7 +95,7 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=thangacodes&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=thangacodes&theme=dark&hide_border=true)<br/>
-![](https://github-readme-activity-graph.cyclic.app/graph?username=thangacodes&theme=react-dark)
+![](https://github-readme-activity-graph.cyclic.app/graph?username=thangacodes&theme=react-dark) <br/>
 
 ###
 

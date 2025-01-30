@@ -86,7 +86,10 @@
 
   <!-- Oracle DB Logo -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle db logo" />
-  
+
+  <!-- Dynatrace Logo -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dynatrace/dynatrace-original.svg" height="40" alt="dynatrace logo" />
+
 </div>
 
 <h3 align="left">🔥   My Stats :</h3>

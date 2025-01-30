@@ -88,7 +88,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle db logo" />
 
   <!-- Dynatrace Logo -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dynatrace/dynatrace-original.svg" height="40" alt="dynatrace logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/25/Dynatrace_logo_2020.svg" height="40" alt="dynatrace logo" />
 
 </div>
 

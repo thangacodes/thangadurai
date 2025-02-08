@@ -122,7 +122,7 @@
 
 ###
 <div align="left">
-  Feel free to contact me via email:
-  (mailto:send2durai@hotmail.com) 
+  Feel free to contact me via email: <a href="mailto:send2durai@hotmail.com">send2durai@hotmail.com</a>
 </div>
+
   

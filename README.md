@@ -123,6 +123,6 @@
 ###
 <div align="left">
   Feel free to contact me via email:
-  [![Hotmail Logo](https://upload.wikimedia.org/wikipedia/commons/1/17/Hotmail_logo_2012.svg)](mailto:send2durai@hotmail.com) 
+  (mailto:send2durai@hotmail.com) 
 </div>
   

@@ -20,7 +20,7 @@
 
 ###
 
-<h1 align="center">Hey there 👋</h1>
+<h1 align="center">Hi, I'm Thangadurai! 👋</h1>
 
 ###
 
@@ -29,11 +29,14 @@
 ###
 
 <p align="left">
-  I'm Thangadurai from Bangalore, India.
+  I’m Thangadurai from Bangalore, India, and I am currently working as a Senior Cloud/DevOps Engineer at Numeric Technologies.
   <br><br>
-  - 🔭 I’m working as a Senior Cloud/DevOps Engineer, specializing in designing and managing scalable cloud infrastructures, automating deployments, and ensuring continuous integration and delivery pipelines.
+  - 🔭 I have experience with AWS and Azure in public cloud, and VMware in private cloud
+       I specialize in designing and managing scalable cloud infrastructures, automating deployments, and ensuring robust continuous integration and delivery pipelines. 
+       My expertise includes working with CloudBees Jenkins for advanced pipeline orchestration, GitHub Actions for seamless automation within version control workflows, and Azure DevOps pipelines to streamline and optimize 
+       CI/CD processes in cloud environments.
   <br><br>
-  - 📚 I'm currently learning about Kubernetes enterprise projects and Python programming/scripting.
+  - 📚 Additionally, my focus is on Kubernetes for enterprise projects, as well as enhancing my skills in Python and Go programming/scripting..
   <br>
 </p>
 
@@ -77,6 +80,9 @@
 
   <!-- Python Logo -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="40" alt="python logo" />
+
+  <!-- Go Logo -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo" />
   
   <!-- PowerShell Logo -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" height="40" alt="powershell logo" />

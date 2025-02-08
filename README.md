@@ -32,11 +32,17 @@
   I’m Thangadurai from Bangalore, India, and I am currently working as a Senior Cloud/DevOps Engineer at Numeric Technologies.
   <br><br>
   - 🔭 Experience with AWS and Azure in public cloud, and VMware in private cloud
+  
   - Specialize in designing and managing scalable cloud infrastructures
+    
   - Expertise in automating deployments and ensuring robust continuous integration and delivery pipelines
+    
   - Proficient with CloudBees Jenkins for advanced pipeline orchestration
+    
   - Skilled in using GitHub Actions for seamless automation within version control workflows
+    
   - Experienced with Azure DevOps pipelines to streamline and optimize CI/CD processes in cloud environments
+    
   <br><br>
   - 📚 Additionally, my focus is on Kubernetes for enterprise projects, as well as enhancing my skills in Python and Go programming/scripting..
   <br>

@@ -24,10 +24,6 @@
     <img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="LinkedIn" />
   </a>
 
-  <a target="_blank" href="https://thangacodes.github.io/landing_page" style="display: inline-block;">
-    <img src="https://img.shields.io/badge/Website-GitHub_Pages-0a0a0a?style=for-the-badge&logo=github&logoColor=white" alt="LandingPage" />
-  </a>
-
   <a target="_blank" href="https://github.com/thangacodes/" style="display: inline-block;">
     <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>

@@ -23,9 +23,8 @@
   <a target="_blank" href="https://www.linkedin.com/in/thangadurai-murugan-87958556/" style="display: inline-block;">
     <img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="LinkedIn" />
   </a>
-
   <a target="_blank" href="https://github.com/thangacodes/" style="display: inline-block;">
-    <img src="https://img.shields.io/badge/GitHub?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=thangacodes&show_icons=true&locale=en" alt="thangacodes" /></p>

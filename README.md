@@ -1,132 +1,23 @@
-###
-
-<div align="center">
-  
-<a href="https://www.linkedin.com/in/thangadurai-murugan-87958556/" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"/>
-</a>
-
-<a href="https://github.com/thangacodes/" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="github logo" />
-</a>
-
-</div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=thangacodes.thangacodes&" />
-</div>
-
-###
-
-<h1 align="center">Hi, I'm Thangadurai! 👋</h1>
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">
-  I’m Thangadurai from Bangalore, India, and I am currently working as a Senior Cloud/DevOps Engineer at Numeric Technologies.
-  <br><br>
-  - 🔭 Experience with AWS and Azure in public cloud, and VMware in private cloud.
-  
-  - Specialize in designing and managing scalable cloud infrastructures.
-    
-  - Expertise in automating deployments and ensuring robust continuous integration and delivery pipelines.
-    
-  - Proficient with CloudBees Jenkins for advanced pipeline orchestration.
-    
-  - Skilled in using GitHub Actions for seamless automation within version control workflows.
-    
-  - Experienced with Azure DevOps pipelines to streamline and optimize CI/CD processes in cloud environments.
-
-  - Skilled in migrating PostgreSQL databases between accounts with minimal downtime and schema consistency
-  
-  - 📚 Additionally, my focus is on Kubernetes for enterprise projects, as well as enhancing my skills in Python and Go programming/scripting..
-  <br>
-</p>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
-<div align="left" style="display: flex; flex-wrap: wrap; gap: 15px;">
-  
-  <!-- AWS Logo -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo" />
-
-  <!-- Azure Cloud Logo -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure cloud logo" />
-  
-  <!-- GitHub Logo -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" />
-
-  <!-- GitHub Actions Logo -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" height="40" alt="github actions logo" />
-  
-  <!-- Jenkins Logo -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="40" alt="jenkins logo" />
-
-  <!-- Kubernetes Logo -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo" />
-
-  <!-- Docker Logo -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo" />
-
-  <!-- Terraform Logo (HashiCorp) -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original-wordmark.svg" height="40" alt="terraform logo" />
-
-  <!-- HashiCorp Vault Logo -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vault/vault-original-wordmark.svg" height="40" alt="hashicorp vault logo" />
-
-  <!-- Bash Logo -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo" />
-
-  <!-- Python Logo -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="40" alt="python logo" />
-
-  <!-- Go Logo -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo" />
-  
-  <!-- PowerShell Logo -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" height="40" alt="powershell logo" />
-  
-  <!-- PostgreSQL DB Logo -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
-
-  <!-- Oracle DB Logo -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle db logo" />
-  
-  <!-- Postman Logo -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" alt="Postman logo" />
-
-
-</div>
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-![](https://github-readme-stats.vercel.app/api?username=thangacodes&theme=dark&hide_border=true&include_all_commits=true&count_private=true)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=thangacodes&theme=dark&hide_border=true)  
-![](https://github-readme-activity-graph.cyclic.app/graph?username=thangacodes&theme=react-dark)
-
-###
-
-###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thangacodes&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-<div align="left">
-  Feel free to contact me via email: <a href="mailto:send2durai@hotmail.com">send2durai@hotmail.com</a>
-</div>
-
-  
+<h1>Hi 👋, I'm Thangadurai</h1>
+<p>A passionate Cloud DevOps Engineer</p>
+<h2>🚀 Languages and Tools I Use</h2>
+<p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="42" height="42" /></a>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="42" height="42" /></a>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="42" height="42" /></a>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="42" height="42" /></a>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /></a>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="42" height="42" /></a></p>
+<h2>⚡️ Where to find me</h2>
+<p><a target="_blank" href="https://www.linkedin.com/in/https://www.linkedin.com/in/thangadurai-murugan-87958556/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=thangacodes&show_icons=true&locale=en" alt="thangacodes" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thangacodes&" alt="thangacodes" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=thangacodes&show_icons=true&locale=en&layout=compact" alt="thangacodes" /></p>
+<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thangacodes" alt="thangacodes" /></a></p>

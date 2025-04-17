@@ -25,11 +25,11 @@
   </a>
 
   <a target="_blank" href="https://thangacodes.github.io/landing_page" style="display: inline-block;">
-    <img src="https://img.shields.io/badge/Website-GitHub_Pages-0a0a0a?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Pages" />
+    <img src="https://img.shields.io/badge/Website-GitHub_Pages-0a0a0a?style=for-the-badge&logo=github&logoColor=white" alt="LandingPage" />
   </a>
 
   <a target="_blank" href="https://github.com/thangacodes/" style="display: inline-block;">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=thangacodes&show_icons=true&locale=en" alt="thangacodes" /></p>

@@ -3,86 +3,85 @@
 <p>A passionate Cloud DevOps Engineer</p>
 <h2>🚀 Cloud and Tools I Use</h2>
 
-<div style="display: flex; flex-wrap: wrap; gap: 12px; align-items: center;">
-    <!-- Cloud Platforms -->
-    <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" target="_blank" title="AWS">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="42" height="42">
-    </a>
+<p align="center">
+  <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="42" height="42">
+  </a>
   
-    <a href="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" target="_blank" title="Azure">
-      <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="42" height="42">
-    </a>
+  <a href="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" title="Azure">
+    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="42" height="42">
+  </a>
   
-    <!-- Version Control & CI/CD -->
-    <a href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" target="_blank" title="Git">
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="42" height="42">
-    </a>
+  <a href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" title="Git">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="42" height="42">
+  </a>
   
-    <a href="https://www.vectorlogo.zone/logos/github/github-icon.svg" target="_blank" title="GitHub Actions">
-      <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub Actions" width="42" height="42">
-    </a>
+  <a href="https://www.vectorlogo.zone/logos/github/github-icon.svg" title="GitHub Actions">
+    <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub Actions" width="42" height="42">
+  </a>
   
-    <a href="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" target="_blank" title="Jenkins">
-      <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="42" height="42">
-    </a>
+  <a href="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" title="Jenkins">
+    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="42" height="42">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" title="Linux">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="42" height="42">
+  </a>
   
-    <!-- Operating Systems -->
-    <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" target="_blank" title="Linux">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="42" height="42">
-    </a>
+  <a href="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" title="Windows">
+    <img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" alt="Windows" width="42" height="42">
+  </a>
   
-    <a href="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" target="_blank" title="Windows">
-      <img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" alt="Windows" width="42" height="42">
-    </a>
+  <a href="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" title="Bash">
+    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="42" height="42">
+  </a>
   
-    <!-- Automation & Scripting -->
-    <a href="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" target="_blank" title="Bash">
-      <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="42" height="42">
-    </a>
+  <a href="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" title="Ansible">
+    <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="Ansible" width="42" height="42">
+  </a>
   
-    <a href="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" target="_blank" title="Ansible">
-      <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="Ansible" width="42" height="42">
-    </a>
+  <a href="https://www.vectorlogo.zone/logos/hashicorp/hashicorp-icon.svg" title="HashiCorp">
+    <img src="https://www.vectorlogo.zone/logos/hashicorp/hashicorp-icon.svg" alt="HashiCorp" width="42" height="42">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" title="Docker">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="42" height="42">
+  </a>
   
-    <a href="https://www.vectorlogo.zone/logos/hashicorp/hashicorp-icon.svg" target="_blank" title="HashiCorp">
-      <img src="https://www.vectorlogo.zone/logos/hashicorp/hashicorp-icon.svg" alt="HashiCorp" width="42" height="42">
-    </a>
+  <a href="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" title="Kubernetes">
+    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="42" height="42">
+  </a>
   
-    <!-- Containerization & Orchestration -->
-    <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" target="_blank" title="Docker">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="42" height="42">
-    </a>
+  <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="42" height="42">
+  </a>
   
-    <a href="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" target="_blank" title="Kubernetes">
-      <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="42" height="42">
-    </a>
+  <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" title="Oracle">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="42" height="42">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-icon.svg" title="Flask">
+    <img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-icon.svg" alt="Flask" width="42" height="42">
+  </a>
   
-    <!-- Databases -->
-    <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" target="_blank" title="PostgreSQL">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="42" height="42">
-    </a>
+  <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="42" height="42">
+  </a>
   
-    <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" target="_blank" title="Oracle">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="42" height="42">
-    </a>
+  <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" title="Go">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="42" height="42">
+  </a>
   
-    <!-- Backend Frameworks & Languages -->
-    <a href="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-icon.svg" target="_blank" title="Flask">
-      <img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-icon.svg" alt="Flask" width="42" height="42">
-    </a>
-  
-    <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" target="_blank" title="Python">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="42" height="42">
-    </a>
-  
-    <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" target="_blank" title="Go">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="42" height="42">
-    </a>
-  
-    <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" target="_blank" title="Node.js">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="42" height="42">
-    </a>
-  </div>  
+  <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" title="Node.js">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="42" height="42">
+  </a>
+</p>
 
 <h2>⚡️ Where to find me</h2>
 <p>

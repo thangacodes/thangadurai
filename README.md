@@ -1,6 +1,6 @@
 
 <h1>Hi 👋, I'm Thangadurai</h1>
-<p>A passionate Cloud DevOps Engineer</p>
+<p>"Passionate Cloud & DevOps Engineer | Automation Specialist"</p>
 <h2>🚀 Cloud and Tools I Use</h2>
 
 <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS">

@@ -52,9 +52,11 @@
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=thangacodes&layout=compact&langs_count=8&theme=default&hide_border=true"
     alt="Top programming languages"
+  />
+
+  <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thangacodes&theme=default"
     alt="Repositories by language"
-  />
   />
 </p>
 

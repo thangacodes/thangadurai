@@ -13,7 +13,7 @@
 ## 🚀 Cloud & DevOps Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,azure,git,github,githubactions,jenkins,linux,bash,ansible,terraform,docker,kubernetes,postgres,oracle,python,nodejs,openai" />
+  <img src="https://skillicons.dev/icons?i=aws,azure,git,github,githubactions,jenkins,linux,bash,ansible,terraform,docker,kubernetes,postgres,oracle,python,openai" />
 </p>
 
 ---

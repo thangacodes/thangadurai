@@ -31,20 +31,14 @@
     alt="Repositories by language" />
 </p>
 
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=thangadurai&theme=default&hide_border=true"
-    alt="GitHub contribution streak" />
-</p>
-
 ---
 
 ## 🧑‍💻 Top Languages
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=thangacodes&layout=compact&langs_count=8&theme=default&hide_border=true"
-    alt="Top languages" />
+    src="https://github-readme-streak-stats.herokuapp.com/?user=thangadurai&theme=default&hide_border=true"
+    alt="GitHub contribution streak" />
 </p>
 
 ---

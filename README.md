@@ -48,13 +48,7 @@
 
 ## 🧑‍💻 Top Languages
 
-## 🧑‍💻 Top Languages
-
 <p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thangacodes&theme=default"
-    alt="Top Languages by Repository"
-  />
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thangacodes&theme=default"
     alt="Repositories by language"

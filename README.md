@@ -15,11 +15,11 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=aws,azure,git,github,githubactions,jenkins,linux,bash,ansible,terraform,docker,kubernetes,postgres,python" />
   <img
-    src="https://cdn.simpleicons.org/openai/412991"
-    alt="OpenAI"
-    width="48"
-    height="48"
-  />
+  src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/openai.svg"
+  alt="OpenAI"
+  width="48"
+  height="48"
+/>
 </p>
 
 ---

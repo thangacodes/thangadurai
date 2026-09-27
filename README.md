@@ -28,12 +28,12 @@
 
 <p align="center">
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=send2durai&theme=default"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=thangacodes&theme=default"
     alt="Thangadurai's GitHub statistics"
   />
 
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=send2durai&theme=default"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thangacodes&theme=default"
     alt="Repositories by language"
   />
 </p>
@@ -44,7 +44,7 @@
 
 <p align="center">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=send2durai&theme=default&hide_border=true"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=thangacodes&theme=default&hide_border=true"
     alt="GitHub contribution streak"
   />
 </p>

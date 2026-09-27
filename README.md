@@ -13,7 +13,8 @@
 ## 🚀 Cloud & DevOps Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,azure,git,github,githubactions,jenkins,linux,bash,ansible,terraform,docker,kubernetes,postgres,oracle,python,openai" />
+  <img src="https://skillicons.dev/icons?i=aws,azure,git,github,githubactions,jenkins,linux,bash,ansible,terraform,docker,kubernetes,postgres,python" />
+  <img src="https://cdn.simpleicons.org/openai/412991" height="48" alt="OpenAI" />
 </p>
 
 ---
@@ -21,17 +22,19 @@
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <a href="https://github.com/thangacodes">
-    <img height="180"
-      src="https://github-readme-stats.vercel.app/api?username=thangacodes&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=default&hide_border=true"
-      alt="Thangadurai's GitHub statistics" />
-  </a>
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=thangacodes&theme=default"
+    alt="Thangadurai's GitHub statistics" />
 
-  <a href="https://github.com/thangacodes">
-    <img height="180"
-      src="https://github-readme-streak-stats.herokuapp.com/?user=thangacodes&theme=default&hide_border=true"
-      alt="Thangadurai's GitHub streak" />
-  </a>
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thangacodes&theme=default"
+    alt="Repositories by language" />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=thangadurai&theme=default&hide_border=true"
+    alt="GitHub contribution streak" />
 </p>
 
 ---
